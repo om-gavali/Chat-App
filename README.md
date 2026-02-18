@@ -3,17 +3,27 @@ This is a simple real-time chat application built using Spring Boot and WebSocke
 Users can send and receive messages instantly in the browser.
 
 🚀 Features
+
 Real-time messaging
+
 WebSocket communication
+
 Simple and clean UI
+
 Spring Boot backend
+
 Easy to run
 
 🛠️ Technologies Used
+
 Java
+
 Spring Boot
+
 WebSocket
+
 Maven
+
 HTML / CSS / JavaScript
 
 📸 Screenshots
